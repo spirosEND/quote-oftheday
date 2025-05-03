@@ -1,0 +1,50 @@
+Talk is cheap. Show me the code. – Linus Torvalds
+Programs must be written for people to read, and only incidentally for machines to execute. – Harold Abelson
+Any fool can write code that a computer can understand. Good programmers write code that humans can understand. – Martin Fowler
+First, solve the problem. Then, write the code. – John Johnson
+Experience is the name everyone gives to their mistakes. – Oscar Wilde
+In order to be irreplaceable, one must always be different. – Coco Chanel
+Java is to JavaScript what car is to Carpet. – Chris Heilmann
+Knowledge is power. – Francis Bacon
+Code never lies, comments sometimes do. – Ron Jeffries
+ix the cause, not the symptom. – Steve Maguire
+Optimism is an occupational hazard of programming: feedback is the treatment. – Kent Beck
+Simplicity is the soul of efficiency. – Austin Freeman
+Before software can be reusable it first has to be usable. – Ralph Johnson
+Make it work, make it right, make it fast. – Kent Beck
+The best way to get a project done faster is to start sooner. – Jim Highsmith
+The most disastrous thing you can ever learn is your first programming language. – Alan Kay
+One man’s crappy software is another man’s full-time job. – Jessica Gaston
+Deleted code is debugged code. – Jeff Sickel
+A good programmer is someone who always looks both ways before crossing a one-way street. – Doug Linder
+If debugging is the process of removing software bugs, then programming must be the process of putting them in. – Edsger Dijkstra
+Software undergoes beta testing shortly before it’s released. Beta is Latin for "still doesn’t work." – Anonymous
+It's not a bug – it's an undocumented feature. – Anonymous
+Walking on water and developing software from a specification are easy if both are frozen. – Edward V. Berard
+Programming is like writing a book... except if you miss out a single comma on page 126 the whole thing makes no sense. – Unknown
+There are only two kinds of programming languages: those people always bitch about and those nobody uses. – Bjarne Stroustrup
+Computers are good at following instructions, but not at reading your mind. – Donald Knuth
+Programming can be fun, so can cryptography; however, they should not be combined. – Kreitzberg and Shneiderman
+The trouble with programmers is that you can never tell what a programmer is doing until it’s too late. – Seymour Cray
+The best thing about a boolean is even if you are wrong, you are only off by a bit. – Anonymous
+Beware of bugs in the above code; I have only proved it correct, not tried it. – Donald Knuth
+Without requirements or design, programming is the art of adding bugs to an empty text file. – Louis Srygley
+There is always one more bug to fix. – Ellen Ullman
+You can’t have great software without a great team, and most software teams behave like dysfunctional families. – Jim McCarthy
+Good code is its own best documentation. – Steve McConnell
+Measuring programming progress by lines of code is like measuring aircraft building progress by weight. – Bill Gates
+In theory, there is no difference between theory and practice. But, in practice, there is. – Jan L. A. van de Snepscheut
+Copy-and-Paste was programming’s way of cloning. – Unknown
+Programming isn't about what you know; it's about what you can figure out. – Chris Pine
+A language that doesn't affect the way you think about programming is not worth knowing. – Alan Perlis
+Programming is the art of telling another human being what one wants the computer to do. – Donald Ervin Knuth
+Software and cathedrals are much the same — first we build them, then we pray. – Anonymous
+The sooner you start to code, the longer the program will take. – Roy Carlson
+The function of good software is to make the complex appear simple. – Grady Booch
+Programming is thinking, not typing. – Casey Patton
+Code is like humor. When you have to explain it, it’s bad. – Cory House
+The best programs are written so that computing machines can perform them quickly and so that human beings can understand them clearly. – Donald Knuth
+Programming is not about typing, it's about thinking. – Rich Hickey
+Simplicity is prerequisite for reliability. – Edsger W. Dijkstra
+Code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. – John Woods
+Clean code always looks like it was written by someone who cares. – Michael Feathers
